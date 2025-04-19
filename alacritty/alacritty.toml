@@ -1,1 +1,7 @@
+[window]
+	padding = { x = 12, y = 12}
+	title = "Alacritty"
+
+[colors.primary]
+	background = "#080808"
 
